@@ -1,0 +1,6 @@
+/* Noto Sans TC / Noto Serif TC (SIL Open Font License 1.1)
+   已裁切為常用繁體中文字 + 日文假名，罕用字會自動改用系統字型 (微軟正黑體 / 新細明體) */
+@font-face{font-family:'Noto Sans TC';font-weight:400;font-style:normal;font-display:block;src:url('../fonts/NotoSansTC-400.woff') format('woff')}
+@font-face{font-family:'Noto Sans TC';font-weight:700;font-style:normal;font-display:block;src:url('../fonts/NotoSansTC-700.woff') format('woff')}
+@font-face{font-family:'Noto Sans TC';font-weight:900;font-style:normal;font-display:block;src:url('../fonts/NotoSansTC-900.woff') format('woff')}
+@font-face{font-family:'Noto Serif TC';font-weight:600 900;font-style:normal;font-display:block;src:url('../fonts/NotoSerifTC-900.woff') format('woff')}

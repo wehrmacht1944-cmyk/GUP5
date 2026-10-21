@@ -1,0 +1,16 @@
+{
+  "name": "戰車道籤筒抽獎系統",
+  "short_name": "籤筒抽獎",
+  "description": "離線可用的籤筒抽獎系統（自訂品項與配率）",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#121413",
+  "theme_color": "#1c1917",
+  "lang": "zh-TW",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
